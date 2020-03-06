@@ -1,5 +1,8 @@
-# dimension-chain price gnome ticket 
+# dimension-chain gnome price ticker
 
-Gnome 3 desktop ticker for dimension-chain price with Python and argos. Rename to dimension-chain.1r.60s.py and put in ~/.config/argos
+Get dimension-chain price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/dimension-chain-price-gnome-ticket/](https://codesharedot.github.io/dimension-chain-price-gnome-ticket/)
 
-https://pythonbasics.org
+dimension-chain price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to dimension-chain.1r60s.py and put in ~/.config/argos
